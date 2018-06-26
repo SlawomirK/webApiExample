@@ -1,0 +1,2479 @@
+Afghanistan
+
+AF
+
+AF
+
+USD
+
+Afghani
+
+Albania
+
+AL
+
+AL
+
+EUR
+
+Euro
+
+Algeria
+
+DZ
+
+DZ
+
+DZD
+
+Algerian dinar
+
+Andorra
+
+AD
+
+AD
+
+EUR
+
+Euro
+
+England
+
+EN
+
+GB
+
+GBP
+
+British Pound
+
+Angola
+
+AO
+
+AO
+
+AOA
+
+Angolan Kwanza
+
+anguilla
+
+AI
+
+AI
+
+XCD
+
+East Caribbean dollar
+
+Antigua and Barbuda
+
+AG
+
+AG
+
+XCD
+
+East Caribbean dollar
+
+Saudi Arabia
+
+ARE
+
+ARE
+
+SAR
+
+Saudi riyas
+
+Argentina
+
+AR
+
+AR
+
+ARS
+
+Argentine Peso
+
+Armenia
+
+AM
+
+AM
+
+AMD
+
+Armenian drama
+
+aruba
+
+AW
+
+AW
+
+AWG
+
+Gulden / floren aruba
+
+Australia
+
+AU
+
+AU
+
+AUD
+
+Australian dollar
+
+Austria
+
+AT
+
+AT
+
+EUR
+
+Euro
+
+Azerbaijan
+
+UNTIL
+
+UNTIL
+
+AZM
+
+Azerbaijan manatees
+
+Azores
+
+A2
+
+PT
+
+EUR
+
+Euro
+
+Bahamas
+
+BS
+
+BS
+
+BSD
+
+Bahamian dollar
+
+Bahrain
+
+BH
+
+BH
+
+BHD
+
+Bahraini Dinar
+
+Bangladesh
+
+BD
+
+BD
+
+BDT
+
+This
+
+barbados
+
+BB
+
+BB
+
+BBD
+
+The barbados dollar
+
+Belgium
+
+BE
+
+BE
+
+EUR
+
+Euro
+
+belize
+
+BZ
+
+BZ
+
+BZD
+
+Belize dollar
+
+Benin
+
+BJ
+
+BJ
+
+XOF
+
+Frank CFA BCEAO
+
+Bermudas
+
+BM
+
+BM
+
+BMD
+
+Bermuda dollar
+
+bhutan
+
+BT
+
+BT
+
+BTN
+
+Ngultrum
+
+Belarus
+
+BY
+
+BY
+
+BYR
+
+Belarusian ruble
+
+Bolivia
+
+BECAUSE
+
+BECAUSE
+
+BROAD BEAN
+
+Bolivia
+
+Bonaire, St. Eustatius, Saba
+
+BQ
+
+BQ
+
+USD
+
+U.S. Dollar
+
+Bosnia
+
+BA
+
+BA
+
+BAM
+
+The Bosnian brand
+
+botswana
+
+BW
+
+BW
+
+BWP
+
+Pula botswańska
+
+Brazil
+
+BR
+
+BR
+
+BRL
+
+Real Brazilian
+
+Brunei
+
+BN
+
+BN
+
+BND
+
+Brunei dollar
+
+British Virgin Islands
+
+VG
+
+VG
+
+USD
+
+U.S. Dollar
+
+Bulgaria
+
+BG
+
+BG
+
+EUR
+
+Euro
+
+Burkina Faso
+
+BF
+
+BF
+
+XOF
+
+Frank CFA BCEAO
+
+burundi
+
+BI
+
+BI
+
+BIF
+
+Burundian franc
+
+Ceuta
+
+XC
+
+XC
+
+EUR
+
+Euro
+
+Chile
+
+CL
+
+CL
+
+CLP
+
+Chilean Peso
+
+China, People's Republic
+
+CN
+
+CN
+
+RMB
+
+Juan renminbi
+
+Croatia
+
+HR
+
+HR
+
+EUR
+
+Euro
+
+Curacao
+
+OR
+
+OR
+
+USD
+
+U.S. Dollar
+
+Cyprus
+
+CY
+
+CY
+
+EUR
+
+Euro
+
+afterdamp
+
+TD
+
+TD
+
+XAF
+
+Frank CFA BEAC
+
+Montenegro
+
+ME
+
+ME
+
+EUR
+
+Serbian Dinar
+
+Czech Republic
+
+LOT
+
+LOT
+
+CZK
+
+the Czech crown
+
+Denmark
+
+DK
+
+DK
+
+DKK
+
+Danish Krone
+
+democratic republic of Kongo
+
+CD
+
+CD
+
+CDF
+
+Congolese Franc
+
+Dominica
+
+DM
+
+DM
+
+XCD
+
+East Caribbean dollar
+
+Dominican Republic
+
+DOWN
+
+DOWN
+
+DOP
+
+Dominican Peso
+
+Djibouti
+
+DJ
+
+DJ
+
+DJF
+
+Frank Djibouti
+
+Egypt
+
+EG
+
+EG
+
+EGP
+
+Egyptian pound
+
+Ecuador
+
+EC
+
+EC
+
+USD
+
+U.S. Dollar
+
+Eritrea
+
+ER
+
+ER
+
+ERN
+
+Nakht erytrejska
+
+Estonia
+
+EE
+
+EE
+
+EUR
+
+Euro
+
+Ethiopia
+
+ET
+
+ET
+
+ETB
+
+Ethiopian Birr
+
+Europe
+
+EP
+
+EP
+
+EUR
+
+Euro
+
+Federal States of Micronesia
+
+FM
+
+FM
+
+USD
+
+U.S. Dollar
+
+Fiji
+
+FJ
+
+FJ
+
+FJD
+
+Dollar Fiji
+
+Philippines
+
+PH
+
+PH
+
+PHP
+
+Philippine Peso
+
+Finland
+
+FI
+
+FI
+
+EUR
+
+Euro
+
+France
+
+FR
+
+FR
+
+EUR
+
+Euro
+
+Gabon
+
+GA
+
+GA
+
+XAF
+
+Frank CFA BEAC
+
+gambia
+
+GM
+
+GM
+
+GMD
+
+Dalaman Gambian
+
+ghana
+
+GH
+
+GH
+
+GHS
+
+Cedars Ghana
+
+gibraltar
+
+GI
+
+GI
+
+GIP
+
+The Gibraltar pound
+
+Greece
+
+GR
+
+GR
+
+EUR
+
+Euro
+
+Grenada
+
+GD
+
+GD
+
+XCD
+
+East Caribbean dollar
+
+Greenland
+
+GL
+
+GL
+
+DKK
+
+Danish Krone
+
+Georgia
+
+GE
+
+GE
+
+GEL
+
+Georgian Lari
+
+Guam
+
+GU
+
+GU
+
+USD
+
+U.S. Dollar
+
+guernsey
+
+GG
+
+GG
+
+GBP
+
+British Pound
+
+Guiana
+
+GY
+
+GY
+
+GYD
+
+Guiana dollar
+
+French Guiana
+
+GF
+
+GF
+
+EUR
+
+Euro
+
+Guadeloupe
+
+GP
+
+GP
+
+EUR
+
+Euro
+
+Guatemala
+
+GT
+
+GT
+
+GTQ
+
+Quetzal Guatemala
+
+Guinea
+
+GN
+
+GN
+
+GNF
+
+Frank of Guinean
+
+Guinea-Bissau
+
+GW
+
+GW
+
+XOF
+
+Frank CFA BCEAO
+
+Equatorial Guinea
+
+GQ
+
+GQ
+
+XAF
+
+Frank CFA BEAC
+
+Haiti
+
+HT
+
+HT
+
+HTG
+
+Gourde Haitian
+
+Spain
+
+ES
+
+ES
+
+EUR
+
+Euro
+
+Netherlands
+
+HO
+
+NL
+
+EUR
+
+Euro
+
+Netherlands
+
+NL
+
+NL
+
+EUR
+
+Euro
+
+Honduras
+
+HN
+
+HN
+
+HNL
+
+Honduran Lempira
+
+Hong Kong
+
+HK
+
+HK
+
+HKD
+
+Hong Kong Dollar
+
+India
+
+IN
+
+IN
+
+INR
+
+Indian rupee
+
+Indonesia
+
+ID
+
+ID
+
+IDR
+
+Indonesian rupiah
+
+Iraq
+
+IQ
+
+IQ
+
+NID
+
+Iraqi Dinar
+
+northern Ireland
+
+NB
+
+GB
+
+GBP
+
+British Pound
+
+Iceland
+
+IS
+
+IS
+
+ISK
+
+Icelandic crown
+
+Israel
+
+LOAM
+
+LOAM
+
+ILS
+
+Israeli New Sheqel
+
+Jamaica
+
+JM
+
+JM
+
+JMD
+
+Jamaican dollar
+
+Japan
+
+JP
+
+JP
+
+JPY
+
+Japanese yen
+
+Yemen
+
+YE
+
+YE
+
+YER
+
+Yemen rial
+
+jersey
+
+JE
+
+JE
+
+GBP
+
+British Pound
+
+Jordan
+
+JO
+
+JO
+
+IODINE
+
+Jordanian Dinar
+
+Cayman Islands
+
+KY
+
+KY
+
+KYD
+
+The Caymanian dollar
+
+Cambodia
+
+KH
+
+KH
+
+KHR
+
+Riel Cambodian
+
+Cameroon
+
+CM
+
+CM
+
+XAF
+
+Frank CFA BEAC
+
+Canada
+
+CA
+
+CA
+
+CAD
+
+Canadian dollar
+
+runny nose
+
+QA
+
+QA
+
+QAR
+
+Qatari Rial
+
+Kazakhstan
+
+KZ
+
+KZ
+
+KZT
+
+Kazakh Tenge
+
+Kenya
+
+KE
+
+KE
+
+BITE
+
+Kenyan shilling
+
+Kyrgyzstan
+
+KG
+
+KG
+
+KGS
+
+Som Kyrgyz
+
+Kiribati
+
+KI
+
+KI
+
+AUD
+
+Australian dollar
+
+Columbia
+
+WHAT
+
+WHAT
+
+COP
+
+Colombian Peso
+
+Comoros
+
+KM
+
+KM
+
+USD
+
+Frank komoryjski
+
+kongo
+
+CG
+
+CG
+
+XAF
+
+Frank CFA BEAC
+
+South Korea
+
+KR
+
+KR
+
+KRW
+
+South Korean Won
+
+Kosrae
+
+KO
+
+FM
+
+USD
+
+U.S. Dollar
+
+Costa Rica
+
+CR
+
+CR
+
+CRC
+
+Costa Rican Colon
+
+Kuwait
+
+KW
+
+KW
+
+KWD
+
+Kuwaiti Dinar
+
+Laos
+
+LA
+
+LA
+
+LAK
+
+Laotian Kip
+
+Lesotho
+
+LS
+
+LS
+
+LSL
+
+Loti lesoto
+
+Lebanon
+
+LB
+
+LB
+
+LBP
+
+Lebanese pound
+
+Livery
+
+LR
+
+LR
+
+LRD
+
+Liberian dollar
+
+Libya
+
+LY
+
+LY
+
+LYD
+
+Libyan Dinar
+
+Liechtenstein
+
+LI
+
+LI
+
+CHF
+
+Swiss franc
+
+Lithuania
+
+LT
+
+LT
+
+EUR
+
+Euro
+
+Latvia
+
+LV
+
+LV
+
+LVL
+
+Latvian lats
+
+Luxembourg
+
+LU
+
+LU
+
+EUR
+
+Euro
+
+Macedonia (former Yugoslav Republic of Macedonia)
+
+MK
+
+MK
+
+EUR
+
+Euro
+
+Madagascar
+
+MG
+
+MG
+
+MGA
+
+Ariary, Malagasy
+
+Madeira
+
+M3
+
+PT
+
+EUR
+
+Euro
+
+Macao SAR
+
+MO
+
+MO
+
+ILO
+
+Pataka makao
+
+malawi
+
+MW
+
+MW
+
+MWK
+
+Kwacha malawska
+
+Maldives
+
+MV
+
+MV
+
+MVR
+
+Rufiyaa malediwska
+
+Malaysia
+
+WE
+
+WE
+
+MYR
+
+Malaysian Ringgit
+
+mali
+
+ML
+
+ML
+
+XOF
+
+Frank CFA BCEAO
+
+malta
+
+MT
+
+MT
+
+EUR
+
+Euro
+
+Northern Mariana Islands
+
+MP
+
+MP
+
+USD
+
+U.S. Dollar
+
+Morocco
+
+MA
+
+MA
+
+MAD
+
+Moroccan Dirham
+
+Martinique
+
+MQ
+
+MQ
+
+EUR
+
+Euro
+
+Mauretania
+
+MR
+
+MR
+
+MRO
+
+Ougiya Mauritanian
+
+Mauritius
+
+HIM
+
+HIM
+
+WALL
+
+Indian mauritius
+
+mayotte
+
+YT
+
+YT
+
+EUR
+
+Franc
+
+Mexico
+
+MX
+
+MX
+
+MXN
+
+Mexican Peso
+
+Melilla
+
+XL
+
+XL
+
+EUR
+
+Euro
+
+Moldova
+
+MD
+
+MD
+
+MDL
+
+Moldovan leu
+
+Monaco
+
+MC
+
+MC
+
+EUR
+
+Euro
+
+Mongolia
+
+MN
+
+MN
+
+MNT
+
+Mongolian Tugrik
+
+montserrat
+
+MS
+
+MS
+
+XCD
+
+East Caribbean dollar
+
+Mozambique
+
+MZ
+
+MZ
+
+MZM
+
+Metical mozambique
+
+Namibia
+
+ON
+
+ON
+
+ABOVE
+
+Namibian dollar
+
+Nepal
+
+NP
+
+NP
+
+NPR
+
+Nepalese Rupee
+
+Germany
+
+DE
+
+DE
+
+EUR
+
+Euro
+
+niger
+
+NE
+
+NE
+
+XOF
+
+Frank CFA BCEAO
+
+Nigeria
+
+NG
+
+NG
+
+NGN
+
+Nigerian naira
+
+Nicaragua
+
+NI
+
+NI
+
+NIO
+
+Cordoba oro Nicaraguan
+
+Norway
+
+WELL
+
+WELL
+
+SAI
+
+Norwegian crown
+
+New Caledonia
+
+NC
+
+NC
+
+XPF
+
+Frank CFP
+
+New Zealand
+
+NZ
+
+NZ
+
+NZD
+
+New Zealand dollar
+
+Oman
+
+OHM
+
+OHM
+
+OMR
+
+The Omanian Rial
+
+Pakistan
+
+PK
+
+PK
+
+PKR
+
+Pakistani rupee
+
+palau
+
+PW
+
+PW
+
+USD
+
+U.S. Dollar
+
+Panama
+
+PA
+
+PA
+
+PAB
+
+Balboa Panama
+
+Papua New Guinea
+
+PG
+
+PG
+
+PGK
+
+Papua New Guinea
+
+Paraguay
+
+PY
+
+PY
+
+PYG
+
+Guarani Paraguayan
+
+Peru
+
+PE
+
+PE
+
+PEN
+
+Nuevo Peruvian sol
+
+French Polynesia
+
+PF
+
+PF
+
+XPF
+
+Frank CFP
+
+Poland
+
+EN
+
+EN
+
+PLN
+
+Polish zloty
+
+Pohnpei
+
+AFTER
+
+FM
+
+USD
+
+U.S. Dollar
+
+Puerto Rico
+
+PR
+
+PR
+
+USD
+
+U.S. Dollar
+
+Portugal
+
+PT
+
+PT
+
+EUR
+
+Euro
+
+Republic of Ireland
+
+IE
+
+IE
+
+EUR
+
+Euro
+
+South Africa
+
+BEHIND
+
+BEHIND
+
+HEAT
+
+South African Rand
+
+Central African Republic
+
+CF
+
+CF
+
+XAF
+
+Frank CFA BEAC
+
+Russia
+
+RU
+
+RU
+
+RUB
+
+Russian ruble
+
+Rota
+
+RT
+
+MP
+
+USD
+
+U.S. Dollar
+
+Rwanda
+
+RW
+
+RW
+
+RWF
+
+Rwandan Frank
+
+Romania
+
+RO
+
+RO
+
+ROL
+
+Romanian leu
+
+Saba
+
+S1
+
+BQ
+
+ANG
+
+Gulden, Dutch, Dutch
+
+Saint Christopher
+
+SW
+
+SC
+
+XCD
+
+East Caribbean dollar
+
+Saint Kitts and Nevis
+
+SC
+
+SC
+
+XCD
+
+East Caribbean dollar
+
+Saint Lucia
+
+LC
+
+LC
+
+XCD
+
+East Caribbean dollar
+
+Saint Vincent and the Grenadines
+
+VC
+
+VC
+
+XCD
+
+East Caribbean dollar
+
+Saipan
+
+SP
+
+MP
+
+USD
+
+U.S. Dollar
+
+El Salvador
+
+SV
+
+SV
+
+USD
+
+U.S. Dollar
+
+samoa
+
+WS
+
+WS
+
+JTS
+
+Tala Samańska
+
+American Samoa
+
+AS
+
+AS
+
+USD
+
+U.S. Dollar
+
+San Marino
+
+SM
+
+SM
+
+EUR
+
+Euro
+
+senegal
+
+SN
+
+SN
+
+XOF
+
+Frank CFA BCEAO
+
+Serbia
+
+RS
+
+RS
+
+EUR
+
+Serbian Dinar
+
+Seychelles
+
+SC
+
+SC
+
+SCR
+
+Rupee Seszelska
+
+Sierra Leone
+
+SL
+
+SL
+
+SLL
+
+Sierra Leone leone
+
+Singapore
+
+SG
+
+SG
+
+SGD
+
+Singapore dollar
+
+Slovakia
+
+SK
+
+SK
+
+EUR
+
+Euro
+
+Slovenia
+
+SI
+
+SI
+
+EUR
+
+Euro
+
+Sri Lanka
+
+LK
+
+LK
+
+LKR
+
+Rupee Sri Lanka
+
+St. Barthelemy
+
+BL
+
+BL
+
+EUR
+
+Euro
+
+St. croix
+
+Z3
+
+VI
+
+USD
+
+U.S. Dollar
+
+St. Eustatius
+
+E2
+
+BQ
+
+ANG
+
+Gulden, Dutch, Dutch
+
+St. john
+
+UV
+
+VI
+
+USD
+
+U.S. Dollar
+
+St. Maarten and St. Martin
+
+SX
+
+SX
+
+USD
+
+U.S. Dollar
+
+St. thomas
+
+VL
+
+VI
+
+USD
+
+U.S. Dollar
+
+United States
+
+US
+
+US
+
+USD
+
+U.S. Dollar
+
+United States Virgin Islands
+
+VI
+
+VI
+
+USD
+
+U.S. Dollar
+
+Swaziland
+
+SZ
+
+SZ
+
+SZL
+
+Swaziland lilangeni
+
+Suriname
+
+SR
+
+SR
+
+SRG
+
+Gulden Surinamese
+
+Scotland
+
+SF
+
+GB
+
+GBP
+
+British Pound
+
+Switzerland
+
+CH
+
+CH
+
+CHF
+
+Swiss franc
+
+Sweden
+
+SE
+
+SE
+
+KNOT
+
+Swedish crown
+
+Tajikistan
+
+TJ
+
+TJ
+
+TJS
+
+Tajik Somoni
+
+Tahiti
+
+TA
+
+PF
+
+XPF
+
+Frank CFP
+
+Thailand
+
+TH
+
+TH
+
+THB
+
+Thai bat
+
+Taiwan
+
+TW
+
+TW
+
+TWD
+
+Taiwanese dollar
+
+Tanzania
+
+TZ
+
+TZ
+
+TZS
+
+Tanzanian shilling
+
+East Timor
+
+TL
+
+TL
+
+USD
+
+U.S. Dollar
+
+Tinian
+
+TI
+
+MP
+
+USD
+
+U.S. Dollar
+
+Togo
+
+TG
+
+TG
+
+XOF
+
+Frank CFA BCEAO
+
+tonga
+
+THIS
+
+THIS
+
+TOP
+
+Pa'anga Tonga
+
+Tortola
+
+ZZ
+
+VG
+
+USD
+
+U.S. Dollar
+
+Truk
+
+HERE
+
+FM
+
+USD
+
+U.S. Dollar
+
+Trinidad and Tobago
+
+TT
+
+TT
+
+TTD
+
+Trinidad and Tobago dollar
+
+Tunisia
+
+TN
+
+TN
+
+TND
+
+Tunisian Dinar
+
+Turkey
+
+TR
+
+TR
+
+TRY
+
+Turkish Lira
+
+turkmenistan
+
+TM
+
+TM
+
+TMT
+
+Turkmen manatee
+
+tuvalu
+
+TV
+
+TV
+
+AUD
+
+Australian dollar
+
+uganda
+
+UG
+
+UG
+
+UGX
+
+Ugandan Shill
+
+Ukraine
+
+UA
+
+UA
+
+UAH
+
+Ukrainian hryvnia
+
+Uruguay
+
+UY
+
+UY
+
+UYU
+
+Uruguayan Peso
+
+Uzbekistan
+
+UZ
+
+UZ
+
+UZS
+
+Som Uzbek
+
+Vanuatu
+
+VU
+
+VU
+
+VUV
+
+Vatu Vanuatu
+
+Virgin Gorda
+
+VR
+
+VG
+
+USD
+
+U.S. Dollar
+
+Wales
+
+WL
+
+GB
+
+GBP
+
+British Pound
+
+Vatican
+
+VA
+
+VA
+
+EUR
+
+Euro
+
+Hungary
+
+HU
+
+HU
+
+HUF
+
+Hungarian forint
+
+Venezuela
+
+VE
+
+VE
+
+VEB
+
+Venezuelan Bolivar
+
+Great Britain
+
+GB
+
+GB
+
+GBP
+
+British Pound
+
+Vietnam
+
+VN
+
+VN
+
+VND
+
+Vietnamese Dong
+
+Italy
+
+IT
+
+IT
+
+EUR
+
+Euro
+
+Ivory Coast
+
+CI
+
+CI
+
+XOF
+
+Frank CFA BCEAO
+
+Norfolk Island
+
+NF
+
+NF
+
+AUD
+
+Australian dollar
+
+Reunion Island
+
+RE
+
+RE
+
+EUR
+
+Euro
+
+Union Island
+
+UI
+
+VC
+
+XCD
+
+East Caribbean dollar
+
+Åland Islands
+
+AX
+
+AX
+
+EUR
+
+Euro
+
+Cook Islands
+
+CK
+
+CK
+
+NZD
+
+New Zealand dollar
+
+Canary Islands
+
+IC
+
+ES
+
+EUR
+
+Euro
+
+Marshall Islands
+
+MH
+
+MH
+
+USD
+
+U.S. Dollar
+
+Faroe Islands
+
+FO
+
+FO
+
+DKK
+
+Danish Krone
+
+Solomon Islands
+
+SB
+
+SB
+
+SBD
+
+Dollar of the Solomon Islands
+
+Sao Tome and Principe
+
+ST
+
+ST
+
+STD
+
+Good of São Tomé and Príncipe
+
+Turks and Caicos Islands
+
+TC
+
+TC
+
+USD
+
+U.S. Dollar
+
+Wallis and Futuna Islands
+
+WF
+
+WF
+
+XPF
+
+Frank CFP
+
+Cape Verde
+
+CV
+
+CV
+
+CVE
+
+Escudo of Cape Verde
+
+Yap
+
+YA
+
+FM
+
+USD
+
+U.S. Dollar
+
+Zambia
+
+ZM
+
+ZM
+
+ZMK
+
+Kwacha Zambia
+
+Zimbabwe
+
+ZW
+
+ZW
+
+ZWD
+
+Zimbabwe dollar
+
+United Arab Emirates
+
+AE
+
+AE
+
+AED
+
+Dirham UAE
