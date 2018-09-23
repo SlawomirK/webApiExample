@@ -1,2 +1,2 @@
 # webApiExample
-Przykładowy program pobierający informację z różnych stron internetowych czy to w formacie Json czy też z Htmla.
+Przykładowy program pobierający i przetwarzający informacje z różnych stron internetowych.
